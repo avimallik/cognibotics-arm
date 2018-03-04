@@ -4,11 +4,11 @@ Droid Picker or Android Object picker is an Android automated Robot or Embedded 
 <b>Programming Language and Technology used in this System : </b></br>
 
 Arduino Code : C++ </br>
-Note : Must upload <b>"DroidPicker.ino"</b> or <b>"DroidPicker_update.ino"</b> in the Arduino Microcontroller </br>
+<b>Note : </b>Must upload <b>"DroidPicker.ino"</b> or <b>"DroidPicker_update.ino"</b> in the Arduino Microcontroller </br>
 
 Android Application : Java </br>
 IDE : MIT Appinventor (massachusetts institute of technology), Kawa Based Online block Programming Tool </br>
-Note : The Android Source code is under <b>"DroidPicker Android Source"</b> folder. just import the <b>"TestVoiceBot.aia"</b> file to the MIT Appinventor.
+<b>Note : </b>The Android Source code is under <b>"DroidPicker Android Source"</b> folder. just import the <b>"TestVoiceBot.aia"</b> file to the MIT Appinventor.
 
 <b>Project Team Members : </b></br>
 Mobile and System Programming : Arunav Mallik Avi </br>
