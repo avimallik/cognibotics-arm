@@ -1,0 +1,23 @@
+Team Name: Enigma
+
+Project ID: projshow_004pyps
+
+Project Material:
+
+1. Arduino Mega 2560
+
+2. 2 Servo for Robotic Claw
+
+3. 2 DC Motor
+
+4. L293D Motor Driver
+
+5. TS5832 Video Receiver
+
+6. TS5832 Video Transmitter
+
+7. Bluetooth Serial Communication Module (HC-06) 
+
+8. Some Jumper Wire
+
+9. An Android Phone
