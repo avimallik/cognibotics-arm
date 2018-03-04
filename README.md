@@ -7,7 +7,7 @@ Arduino Code : C++ </br>
 <b>Note : </b>Must upload <b>"DroidPicker.ino"</b> or <b>"DroidPicker_update.ino"</b> in the Arduino Microcontroller </br>
 
 Android Application : Java </br>
-IDE : MIT Appinventor (massachusetts institute of technology), Kawa Based Online block Programming Tool </br>
+IDE : MIT Appinventor (Massachusetts Institute of Technology), Kawa Based Online block Programming Tool </br>
 <b>Note : </b>The Android Source code is under <b>"DroidPicker Android Source"</b> folder. just import the <b>"TestVoiceBot.aia"</b> file to the MIT Appinventor.
 
 <b>Project Team Members : </b></br>
