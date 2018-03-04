@@ -13,6 +13,8 @@ Note : The Android Source code is under <b>"DroidPicker Android Source"</b> fold
 <b>Project Team Members : </b></br>
 Mobile and System Programming : Arunav Mallik Avi </br>
 Design : Fazlay Rabbi
+</br>
+<b>Screenshoot : </b> </br>
 
 
 
