@@ -14,6 +14,7 @@ IDE : MIT Appinventor (Massachusetts Institute of Technology), Kawa Based Online
 
 <b>Project Team Members : </b></br>
 Mobile Application and System Programming : Arunav Mallik Avi </br>
+System Patent and Copyright is maintained by Arunav Mallik Avi (Arm Avi)
 
 </br>
 
