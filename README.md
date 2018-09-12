@@ -13,8 +13,8 @@ IDE : MIT Appinventor (Massachusetts Institute of Technology), Kawa Based Online
 <b>Note : </b>The Android Source code is under <b>"DroidPicker Android Source"</b> folder. just import the <b>"TestVoiceBot.aia"</b> file to the MIT Appinventor.
 
 <b>Project Team Members : </b></br>
-Mobile and System Programming : Arunav Mallik Avi </br>
-Design : Fazlay Rabbi
+Mobile Application and System Programming : Arunav Mallik Avi </br>
+
 </br>
 
 <b>Screenshoot : </b> </br>
