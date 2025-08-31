@@ -1,5 +1,6 @@
 // === Arduino IDE sketch: arm_controller.ino ===
-#include <Servo.h>
+// Author: Arunav Mallik Avi
+# include <Servo.h>
 
 Servo servos[6];
 int servoPins[6] = {2, 3, 4, 5, 6, 7};  // D2..D7
