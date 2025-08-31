@@ -56,7 +56,7 @@ Threshold-based mapping ensures reliability:
   - **Start/Stop** buttons for EEG streaming  
   - **E-STOP (HOME)** button for safety  
   - **Automatic COM port detection** (MindWave & Arduino)  
-  - Scrolling **command log window** for traceabilit 
+  - Scrolling **command log window** for traceability
 
   ---
 
